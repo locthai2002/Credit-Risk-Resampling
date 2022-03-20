@@ -71,42 +71,32 @@ conda install -c conda-forge pydotplus
 You will need to clone the repo so that you can run the application:
 
 ```
- git clone https://github.com/locthai2002/Crypto-Clustering-Machine-Learning.git
+ https://github.com/locthai2002/Credit-Risk-Resampling.git
+
 ```
 
 Here are some screenshots from running the application:
 
-### Import the Data
+## Import the Data
 
 ![Import the Data](images/1.png)
 
-### Prepare the Data
+## Split the Data into Training and Testing Sets
 
-![Prepare the Data](images/2.png)
+![Split the Data into Training and Testing Sets](images/2.png)
 
-### Find the Best Value for k Using the Original Data
+## Create a Logistic Regression Model with the Original Data
 
-![Find the Best Value for k Using the Original Data](images/3.png)
+![Create a Logistic Regression Model with the Original Data](images/3.png)
 
-### Cluster Cryptocurrencies with K-means Using the Original Data
+## Predict a Logistic Regression Model with Resampled Training Data
 
-![Cluster Cryptocurrencies with K-means Using the Original Data](images/4.png)
+![Predict a Logistic Regression Model with Resampled Training Data](images/4.png)
 
-### Optimize Clusters with Principal Component Analysis
+## Write a Credit Risk Analysis Report
 
-![Optimize Clusters with Principal Component Analysis](images/5.png)
+![Write a Credit Risk Analysis Report](images/5.png)
 
-### Find the Best Value for k Using the PCA Data
-
-![Find the Best Value for k Using the PCA Data](images/6.png)
-
-### Cluster the Cryptocurrencies with K-means Using the PCA Data
-
-![Cluster the Cryptocurrencies with K-means Using the PCA Data](images/7.png)
-
-### Visualize and Compare the Results
-
-![Visualize and Compare the Results](images/8.png)
 
 ---
 
