@@ -84,18 +84,20 @@ Here are some screenshots from running the application:
 ## Split the Data into Training and Testing Sets
 
 ![Split the Data into Training and Testing Sets](images/2.png)
+![Split the Data into Training and Testing Sets](images/3.png)
 
 ## Create a Logistic Regression Model with the Original Data
 
-![Create a Logistic Regression Model with the Original Data](images/3.png)
+![Create a Logistic Regression Model with the Original Data](images/4.png)
+![Create a Logistic Regression Model with the Original Data](images/5.png)
 
 ## Predict a Logistic Regression Model with Resampled Training Data
 
-![Predict a Logistic Regression Model with Resampled Training Data](images/4.png)
+![Predict a Logistic Regression Model with Resampled Training Data](images/6.png)
 
 ## Write a Credit Risk Analysis Report
 
-![Write a Credit Risk Analysis Report](images/5.png)
+![Write a Credit Risk Analysis Report](images/7.png)
 
 
 ---
